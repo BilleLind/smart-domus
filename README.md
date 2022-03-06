@@ -1,24 +1,26 @@
 # Smart-Domus
- Smart Domus - Eksamens projekt
+ Smart Domus - Exam project
+ ----
+ Smart Domus is the start of a E-Commerce Platform create wite Sveltekit as its Frontend and Fastify as the Backend.
+ as of this moment it is not completed and i missing quite a bit. 
 
-Krav: 
-    Node.js og dermed npm installeret på maskinen
-
+requirements: 
+    Node.js and npm installed
 
  Frontend:
-    bevæg dig først ind i frontend mappen
+    first move into the frontend folder:
         cd Frontend
-    installer dependencies
+    install dependencies:
         npm install
-    kør servern lokalt sat til port 3000
+    run the server locally, port 3000:
         npm run dev
-    udgivelses bygning
+    compile production:
         npm run build
 
 Backend: 
-    bevæg dig først ind i frontend mappen
+    first move into the backend folder:
         cd Backend
-    installer dependencies
+    install dependencies:
         npm install
-    kør servern lokalt sat til port 5000
-        npm run dev
+    run the server locally, port 5000:
+        npm run dev 
