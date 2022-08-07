@@ -1,5 +1,5 @@
 <script>
-	import SetTheme from '../stores/setTheme.svelte';
+	import SetTheme from '../routes/stores/setTheme.svelte';
 
 	import Hamburger from 'svelte-hamburgers';
 
